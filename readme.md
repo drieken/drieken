@@ -15,7 +15,6 @@
 ### CMS
 [![Shopware](https://img.shields.io/badge/shopware-black?style=for-the-badge&logo=shopware)](https://hub.docker.com/drieken)
 [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://hub.docker.com/drieken)
-[![Joomla](https://img.shields.io/badge/joomla-black?style=for-the-badge&logo=joomla)](https://hub.docker.com/drieken)
 [![Nextcloud](https://img.shields.io/badge/nextcloud-black?style=for-the-badge&logo=nextcloud)](https://hub.docker.com/drieken)
 
 ### OS
