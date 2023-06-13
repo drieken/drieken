@@ -1,5 +1,5 @@
-### Connect
-<a href="https://www.linkedin.com/in/dominikrieken" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a> <a href="https://www.dribbble.com/drieken" target="_blank"><img src="https://img.shields.io/badge/dribbble-pink?style=flat-square&logo=dribbble" alt="Dribbble"></a>
+
+<div align="center"><a href="https://www.linkedin.com/in/dominikrieken" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a> <a href="https://www.dribbble.com/drieken" target="_blank"><img src="https://img.shields.io/badge/dribbble-pink?style=flat-square&logo=dribbble" alt="Dribbble"></a></div>
 
 #
 
