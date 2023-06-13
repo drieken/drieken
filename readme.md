@@ -7,7 +7,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/drieken)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/drieken)
 [![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/drieken)
-[![Objective-C](https://img.shields.io/badge/objectivec-black?style=for-the-badge&logo=objective-c)](https://github.com/drieken)
+[![Objective-C](https://img.shields.io/badge/objective--c-black?style=for-the-badge&logo=objective--c)](https://github.com/drieken)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/drieken)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/drieken)
 
