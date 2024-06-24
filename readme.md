@@ -28,6 +28,7 @@
 ### OS
 [![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos)](https://hub.docker.com/drieken)
 [![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://hub.docker.com/drieken)
+[![iPadOS](https://img.shields.io/badge/ipados-black?style=for-the-badge&logo=ipados)](https://hub.docker.com/drieken)
 
 
 <p align="center">
