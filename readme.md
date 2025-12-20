@@ -12,8 +12,13 @@
 
 #
 
-###  Frameworks
+### Frameworks
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/drieken)
+[![Tailwind CSS](https://img.shields.io/badge/tailwind_css-black?style=for-the-badge&logo=tailwindcss)](https://hub.docker.com/drieken)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/drieken)
+[![Vue.js](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://hub.docker.com/drieken)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://hub.docker.com/drieken)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://hub.docker.com/drieken)
 
 #
 
