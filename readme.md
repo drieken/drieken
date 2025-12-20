@@ -27,7 +27,7 @@
 
 #
 
-### CMS
+### 
 [![Shopware](https://img.shields.io/badge/shopware-black?style=for-the-badge&logo=shopware)](https://hub.docker.com/drieken)
 [![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://hub.docker.com/drieken)
 
