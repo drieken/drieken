@@ -1,5 +1,5 @@
 
-<div align="center"><a href="https://www.linkedin.com/in/dominikrieken" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">/div>
+<div align="center"><a href="https://www.linkedin.com/in/dominikrieken" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></div>
 
 #
 
