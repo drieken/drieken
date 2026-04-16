@@ -2,7 +2,7 @@
 
 # Hey, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**iOS Developer & Web Engineer**
+**iOS Developer, Web Engineer & Designer**
 
 Building native Apple apps with Swift/SwiftUI and modern web experiences with React, Next.js & Vue.
 
@@ -67,8 +67,5 @@ Building native Apple apps with Swift/SwiftUI and modern web experiences with Re
 <img src="https://github-readme-stats.vercel.app/api?username=drieken&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=drieken&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170">
 
-<br><br>
-
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdrieken&count_bg=58a6ff&title_bg=555555&title=Profile+Views&edge_flat=true" alt="Profile Views">
 
 </div>
