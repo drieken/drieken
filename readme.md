@@ -1,49 +1,69 @@
+<div align="center">
 
-<div align="center"><a href="https://www.linkedin.com/in/dominikrieken" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></div>
+# Hey, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-#
+**iOS Developer & Web Engineer**
 
-### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/drieken)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/drieken)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/drieken)
-[![Swift](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift)](https://github.com/drieken)
-[![Objective-C](https://img.shields.io/badge/objective--c-black?style=for-the-badge&logo=objective--c)](https://github.com/drieken)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/drieken)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/drieken)
-[![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/drieken)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/drieken)
+Building native Apple apps with Swift/SwiftUI and modern web experiences with React, Next.js & Vue.
 
+<a href="https://www.linkedin.com/in/dominikrieken"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
 
-#
+</div>
 
-### Frameworks
-[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://hub.docker.com/drieken)
-[![Tailwind CSS](https://img.shields.io/badge/tailwind_css-black?style=for-the-badge&logo=tailwindcss)](https://hub.docker.com/drieken)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://hub.docker.com/drieken)
-[![Vue.js](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://hub.docker.com/drieken)
-[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://hub.docker.com/drieken)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://hub.docker.com/drieken)
+<br>
 
-#
+## Languages
 
-### 
-[![Shopware](https://img.shields.io/badge/shopware-black?style=for-the-badge&logo=shopware)](https://hub.docker.com/drieken)
-[![WordPress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://hub.docker.com/drieken)
-
-#
-
-### OS
-[![macOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos)](https://hub.docker.com/drieken)
-[![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://hub.docker.com/drieken)
-[![iPadOS](https://img.shields.io/badge/ipados-black?style=for-the-badge&logo=ipados)](https://hub.docker.com/drieken)
-[![watchOS](https://img.shields.io/badge/watchos-black?style=for-the-badge&logo=watchos)](https://hub.docker.com/drieken)
-[![VisionOS](https://img.shields.io/badge/visionos-black?style=for-the-badge&logo=visionos)](https://hub.docker.com/drieken)
-
-
-
-<p align="center">
-  <a href="https://github.com/drieken">
-    <img src="https://komarev.com/ghpvc/?username=drieken&color=red&style=flat)" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
+
+## Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+## Platforms & CMS
+
+<p>
+  <img src="https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+</p>
+
+## Apple Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
+  <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iPadOS">
+  <img src="https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="watchOS">
+  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="visionOS">
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=drieken&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=drieken&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=drieken&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views">
+
+</div>
