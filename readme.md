@@ -2,15 +2,24 @@
 
 # Hey, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**iOS Developer, Web Engineer & Designer**
+**Founder @ Pixzl**
 
-Building native Apple apps with Swift/SwiftUI and modern web experiences with React, Next.js & Vue.
+I develop apps for Apple's platforms, SaaS products, and AI integrations. Software where beautiful design and solid engineering are inseparable.
 
-<a href="https://www.linkedin.com/in/dominikrieken"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://drieken.com"><img src="https://img.shields.io/badge/drieken.com-0d1117?style=for-the-badge&logo=safari&logoColor=white" alt="drieken.com"></a>&nbsp;
+<a href="https://www.pixzl.de"><img src="https://img.shields.io/badge/Pixzl-000000?style=for-the-badge&logoColor=white" alt="Pixzl"></a>&nbsp;
+<a href="https://www.linkedin.com/in/dominikrieken"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
 <br>
+
+## Pixzl Products
+
+<p>
+  <a href="https://www.pixzl.ai"><img src="https://img.shields.io/badge/Pixzl.AI-000000?style=for-the-badge&logoColor=white" alt="Pixzl.AI"></a>
+  <img src="https://img.shields.io/badge/Pixzl.CMS-000000?style=for-the-badge&logoColor=white" alt="Pixzl.CMS">
+</p>
 
 ## Languages
 
@@ -66,6 +75,5 @@ Building native Apple apps with Swift/SwiftUI and modern web experiences with Re
 
 <img src="https://github-readme-stats.vercel.app/api?username=drieken&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=drieken&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" height="170">
-
 
 </div>
