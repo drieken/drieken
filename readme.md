@@ -17,7 +17,7 @@ I develop apps for Apple's platforms, SaaS products, and AI integrations. Softwa
 ## Pixzl Products
 
 <p>
-  <a href="https://www.pixzl.ai"><img src="https://img.shields.io/badge/Pixzl.AI-000000?style=for-the-badge&logoColor=white" alt="Pixzl.AI"></a>
+  <a href="https://www.pixzl.de"><img src="https://img.shields.io/badge/Pixzl.AI-000000?style=for-the-badge&logoColor=white" alt="Pixzl.AI"></a>
   <img src="https://img.shields.io/badge/Pixzl.CMS-000000?style=for-the-badge&logoColor=white" alt="Pixzl.CMS">
 </p>
 
