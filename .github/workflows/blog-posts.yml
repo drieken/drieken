@@ -18,7 +18,7 @@ jobs:
           feed_list: "https://www.drieken.com/blog/feed.xml"
           readme_path: "./readme.md"
           max_post_count: 3
-          template: "[$title]($url) · $date<br>$newline"
+          template: "$newline[$title]($url) · $date<br>"
           date_format: "mmm d, yyyy"
           commit_message: "Update latest blog posts"
           committer_username: "github-actions[bot]"
