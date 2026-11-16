@@ -1,71 +1,44 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Dominik Rieken, Founder & CEO, Pixzl" width="440">
+</picture>
 
-# Hey, I'm Dominik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+I've been developing software for over twenty years. Mostly apps for iPhone and Mac, often whole SaaS products, and these days my own AI.
 
-**Founder @ Pixzl**
-
-I develop apps for Apple's platforms, SaaS products, and AI integrations. Software where beautiful design and solid engineering are inseparable.
-
-<a href="https://drieken.com"><img src="https://img.shields.io/badge/drieken.com-0d1117?style=for-the-badge&logo=safari&logoColor=white" alt="drieken.com"></a>&nbsp;
-<a href="https://www.pixzl.de"><img src="https://img.shields.io/badge/Pixzl-000000?style=for-the-badge&logoColor=white" alt="Pixzl"></a>&nbsp;
-<a href="https://www.linkedin.com/in/dominikrieken"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</div>
+[drieken.com](https://drieken.com) · [Pixzl](https://www.pixzl.de) · [Blog](https://drieken.com/blog) · [LinkedIn](https://www.linkedin.com/in/dominikrieken/) · [X](https://x.com/driekencom) · [Threads](https://www.threads.com/@driekencom)
 
 <br>
 
-## Pixzl Products
+### What I'm building
 
-<p>
-  <a href="https://www.pixzl.de"><img src="https://img.shields.io/badge/Pixzl.AI-000000?style=for-the-badge&logoColor=white" alt="Pixzl.AI"></a>
-  <img src="https://img.shields.io/badge/Pixzl.CMS-000000?style=for-the-badge&logoColor=white" alt="Pixzl.CMS">
-</p>
+**[Conecct](https://conecct.app)** · The work platform for teams, in the browser. The iPhone app is in closed beta.<br>
+**[Pixzl AI](https://www.pixzl.de/produkte/pixzl-ai)** · Our own AI, right where the work happens. It only acts on what you confirm.<br>
+**[Claido](https://www.pixzl.de/produkte/claido)** · Log expenses in seconds. Coming soon to the App Store.<br>
+**[DockPin](https://www.pixzl.de/produkte/dockpin)** · Keeps the macOS Dock on the display you choose.<br>
+**[Deploir](https://www.pixzl.de/produkte/deploir)** · All your Coolify apps in one window, on Mac and iPhone.<br>
+**[Proledo](https://github.com/drieken/Proledo)** · Moving wallpapers that protect OLED Macs from burn-in. Open source.
 
-## Languages
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+### Latest writing
 
-## Markup & Styling
+<!-- BLOG-POST-LIST:START -->
+[33 years and a few days](https://drieken.com/blog/jensen-huang-steps-down) · Nov 12, 2026<br>
+[A week with the iPhone Duo](https://drieken.com/blog/a-week-with-the-iphone-duo) · Oct 30, 2026<br>
+[A no that held for 16 years](https://drieken.com/blog/steve-jobs-was-right) · Oct 28, 2026<br>
+<!-- BLOG-POST-LIST:END -->
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-</p>
+[All posts →](https://drieken.com/blog)
 
-## Frameworks & Libraries
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
+### What I work with
 
-## Platforms & CMS
+**Apple** · Swift, SwiftUI, Objective-C for iOS, iPadOS, macOS, watchOS and visionOS<br>
+**Web** · TypeScript, React, Next.js, Vue, Angular, Tailwind CSS<br>
+**Backend** · PHP, SQL<br>
+**Commerce** · Shopware, WordPress
 
-<p>
-  <img src="https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=shopware&logoColor=white" alt="Shopware">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
-</p>
+<br>
 
-## Apple Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
-  <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iPadOS">
-  <img src="https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="watchOS">
-  <img src="https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="visionOS">
-</p>
-
+Email is the quickest way to reach me: [hi@drieken.com](mailto:hi@drieken.com)
