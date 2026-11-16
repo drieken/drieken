@@ -22,10 +22,9 @@ I've been developing software for over twenty years. Mostly apps for iPhone and 
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->
-[33 years and a few days](https://drieken.com/blog/jensen-huang-steps-down) · Nov 12, 2026<br>
-[A week with the iPhone Duo](https://drieken.com/blog/a-week-with-the-iphone-duo) · Oct 30, 2026<br>
-[A no that held for 16 years](https://drieken.com/blog/steve-jobs-was-right) · Oct 28, 2026<br>
+<!-- BLOG-POST-LIST:START -->[33 years and a few days](https://www.drieken.com/blog/jensen-huang-steps-down) · Nov 12, 2026<br>
+[A week with the iPhone Duo](https://www.drieken.com/blog/a-week-with-the-iphone-duo) · Oct 30, 2026<br>
+[A no that held for 16 years](https://www.drieken.com/blog/steve-jobs-was-right) · Oct 28, 2026<br>
 <!-- BLOG-POST-LIST:END -->
 
 [All posts →](https://drieken.com/blog)
