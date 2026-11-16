@@ -36,7 +36,8 @@ I've been developing software for over twenty years. Mostly apps for iPhone and 
 **Apple** · Swift, SwiftUI, Objective-C for iOS, iPadOS, macOS, watchOS and visionOS<br>
 **Web** · TypeScript, React, Next.js, Vue, Angular, Tailwind CSS<br>
 **Backend** · PHP, SQL<br>
-**Commerce** · Shopware, WordPress
+**Commerce** · Shopware<br>
+**CMS** · WordPress
 
 <br>
 
