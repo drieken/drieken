@@ -13,9 +13,9 @@ I've been developing software for over twenty years. Mostly apps for iPhone and 
 
 **[Conecct](https://conecct.app)** · The work platform for teams, in the browser. The iPhone app is in closed beta.<br>
 **[Pixzl AI](https://www.pixzl.de/produkte/pixzl-ai)** · Our own AI, right where the work happens. It only acts on what you confirm.<br>
-**[Claido](https://www.pixzl.de/produkte/claido)** · Log expenses in seconds. Coming soon to the App Store.<br>
-**[DockPin](https://www.pixzl.de/produkte/dockpin)** · Keeps the macOS Dock on the display you choose.<br>
-**[Deploir](https://www.pixzl.de/produkte/deploir)** · All your Coolify apps in one window, on Mac and iPhone.<br>
+**[Claido](https://claido.app)** · Log expenses in seconds. Coming soon to the App Store.<br>
+**[DockPin](https://thedockpin.app)** · Keeps the macOS Dock on the display you choose.<br>
+**[Deploir](https://deploir.app)** · All your Coolify apps in one window, on Mac and iPhone.<br>
 **[Proledo](https://github.com/drieken/Proledo)** · Moving wallpapers that protect OLED Macs from burn-in. Open source.
 
 <br>
